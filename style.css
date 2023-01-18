@@ -75,3 +75,21 @@ body, html {
     position: inherit;
     background-color: white;
 }
+
+ @media only screen and (max-width: 600p) {
+.container nav {width: 100vw; height: 60px; font-size: 15p;}
+.container {width: 100vw;}
+.sec {width: 200px;}
+.sec p {font-size: 20px;}
+.kategorije {width: 100vw; padding: 0vw}
+.text h2 {font-size: 30px;}
+.row {display: inline-block; width: 100vww}
+.slike img {width: 200px; height: 200px;}
+.slike {display: block; margin: auto;}
+.info {width: 100vw;}
+.tekst {display: inline-block; align-items: center; justify-content: center;}
+.tekst img {width: 200px; height: 200px; display: block; margin: auto;}
+.about-me {width: 100vw;}
+.about.me h2 {text-align: center;}
+.tekst1 {font-size: 17px; width: 55vw; text-align: center; margin-left: 25vw;}
+}
