@@ -55,7 +55,8 @@ body, html {
     font-size: 1.25vw;
 }
 .image {
-    width: 10%;
+    width: 300px;
+    height: 300px;
     position: relative;
     display: block;
     margin: auto auto;
