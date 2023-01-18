@@ -45,7 +45,7 @@ body, html {
     position: inherit;
 }
 .Text {
-    background-color: #ff6666;
+    background-color: #0d260d;
     color: white;
     width: 100%;
     height: auto;
@@ -67,7 +67,7 @@ body, html {
     text-align: center;
 }
 .selected {
-    background-color: white;
+    background-color: black;
 }
 #navlist {
     width: 100%;
