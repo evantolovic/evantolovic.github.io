@@ -79,11 +79,11 @@ body, html {
  @media only screen and (max-width: 600p) {
 .container nav {width: 100vw; height: 60px; font-size: 15p;}
 .container {width: 100vw;}
-.sec {width: 200px;}
+.tekst {width: 200px;}
 .sec p {font-size: 20px;}
-.kategorije {width: 100vw; padding: 0vw}
+.history {width: 100vw; padding: 0vw}
 .text h2 {font-size: 30px;}
-.row {display: inline-block; width: 100vww}
+.tekst {display: inline-block; width: 100vww}
 .slike img {width: 200px; height: 200px;}
 .slike {display: block; margin: auto;}
 .info {width: 100vw;}
@@ -97,10 +97,10 @@ body, html {
 @media only screen and (max-width: 844px) and (min-width: 601px) {
     .container nav {width: 100vw; height; 60px; font-size: 15px;}
     .container {width: 100vw;}
-    .sec {width; 200px;}
-    .kategorije {width: 100vw; padding: 0vw}
+    .tekst {width; 200px;}
+    .history {width: 100vw; padding: 0vw}
     .text h2 {font-size: 30px;}
-    .row {display: inline-block; width: 100vw;}
+    .tekst {display: inline-block; width: 100vw;}
     .slike img {idth: 200px; height: 200px;}
     .slike {display: block; margin: auto;}
     .info {width: 100vw;}
